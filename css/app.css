@@ -1,0 +1,29 @@
+/* add your CSS here */
+#container{
+  border:solid 1px;
+  width:360px;
+  background-color:#229660;
+  padding:10px;
+}
+#card{
+  border:solid 1px;
+  padding-left:10px;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+
+
+
+}
+.animal{
+  font-style:italic;
+  font-weight:bold;
+  list-style:none;
+}
+#facts{
+  font-style:italic;
+  list-style-type:none;
+}
+.time{
+  font-weight:bold;
+}
